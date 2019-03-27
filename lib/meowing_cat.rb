@@ -1,9 +1,9 @@
 ## code your solution here. 
 
 class Cat
-  attr_accessor(:name, :meaw)
+  attr_accessor(:name)
   
-def meaw
+def meow
   puts "meow!"
   
 end
